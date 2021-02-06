@@ -1,0 +1,12 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.red {
+	background:red;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	margin: 20px;
+}
